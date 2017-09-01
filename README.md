@@ -11,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Caffeine Pills - Good idea or great idea?
+## Starbucks - Overpriced or just stupid in general?
+### The day I found out I can sleep with my eyes open - One girls journey to passing Uni
 
 - Bulleted
 - List
